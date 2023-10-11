@@ -1,0 +1,2 @@
+# linkedIn
+scripts for revenue
